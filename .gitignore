@@ -1,0 +1,6 @@
+GrahamSans.backup/
+.cache/
+build/
+dist/
+sources/1-drawing/DesignSpace-UFO/instances/
+qa/
