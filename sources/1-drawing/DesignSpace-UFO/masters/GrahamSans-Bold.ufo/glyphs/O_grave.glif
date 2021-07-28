@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ograve" format="2">
+  <advance width="780"/>
+  <unicode hex="00D2"/>
+  <outline>
+    <component base="O"/>
+    <contour>
+      <point x="270" y="880" type="line"/>
+      <point x="360" y="760" type="line"/>
+      <point x="460" y="780" type="line"/>
+      <point x="410" y="880" type="line"/>
+    </contour>
+  </outline>
+</glyph>

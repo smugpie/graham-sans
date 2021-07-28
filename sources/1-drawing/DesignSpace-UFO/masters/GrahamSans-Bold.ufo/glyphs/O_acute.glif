@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oacute" format="2">
+  <advance width="780"/>
+  <unicode hex="00D3"/>
+  <outline>
+    <component base="O"/>
+    <contour>
+      <point x="320" y="780" type="line"/>
+      <point x="420" y="760" type="line"/>
+      <point x="510" y="880" type="line"/>
+      <point x="370" y="880" type="line"/>
+    </contour>
+  </outline>
+</glyph>
