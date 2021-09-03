@@ -4,3 +4,10 @@ build/
 dist/
 sources/1-drawing/DesignSpace-UFO/instances/
 qa/
+
+# python venv
+python/lib
+python/share
+python/bin
+python/include
+__pycache__/

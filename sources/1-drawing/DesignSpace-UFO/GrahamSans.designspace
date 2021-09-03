@@ -1,16 +1,41 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
- <axes/>
+ <axes>
+  <axis tag="wght" minimum="400" default="400" maximum="700" name="weight">
+   <labelname xml:lang="en">Weight</labelname>
+  </axis>
+ </axes>
  <sources>
-  <source filename="masters/GrahamSans-Bold.ufo" stylename="Regular" familyname="Graham Sans" name="Bold">
-   <location/>
+  <source familyname="Graham Sans" stylename="Regular" filename="masters/GrahamSans-Bold.ufo" name="Bold">
+   <location>
+    <dimension name="weight" xvalue="700"/>
+   </location>
   </source>
-  <source filename="masters/GrahamSans-Regular.ufo" stylename="Regular" familyname="Graham Sans" name="Regular">
+  <source familyname="Graham Sans" stylename="Regular" filename="masters/GrahamSans-Regular.ufo" name="Regular">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
    <features copy="1"/>
-   <location/>
+   <location>
+    <dimension name="weight" xvalue="400"/>
+   </location>
   </source>
  </sources>
+ <instances>
+  <instance familyname="Graham Sans" stylename="Regular" filename="instances/GrahamSans-Regular.ufo" name="Regular">
+   <location>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </instance>
+  <instance familyname="Graham Sans" stylename="Semi Bold" filename="instances/GrahamSans-SemiBold.ufo" name="Semi Bold">
+   <location>
+    <dimension name="weight" xvalue="550"/>
+   </location>
+  </instance>
+  <instance familyname="Graham Sans" stylename="Bold" filename="instances/GrahamSans-Bold.ufo" name="Bold">
+   <location>
+    <dimension name="weight" xvalue="700"/>
+   </location>
+  </instance>
+ </instances>
 </designspace>

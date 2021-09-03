@@ -27,8 +27,6 @@
   </array>
   <key>italicAngle</key>
   <integer>0</integer>
-  <key>macintoshFONDFamilyID</key>
-  <integer>128</integer>
   <key>openTypeGaspRangeRecords</key>
   <array>
   <dict>
@@ -44,16 +42,16 @@
   </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2005/07/30 14:17:29</string>
+  <string>2005/07/30 15:17:29</string>
   <key>openTypeHeadFlags</key>
   <array>
   </array>
   <key>openTypeHheaAscender</key>
-  <integer>970</integer>
+  <integer>750</integer>
   <key>openTypeHheaCaretOffset</key>
   <integer>-0</integer>
   <key>openTypeHheaDescender</key>
-  <integer>-240</integer>
+  <integer>-230</integer>
   <key>openTypeHheaLineGap</key>
   <integer>50</integer>
   <key>openTypeNameDesigner</key>
@@ -91,25 +89,25 @@
   <array>
   </array>
   <key>openTypeOS2StrikeoutPosition</key>
-  <integer>250</integer>
+  <integer>300</integer>
   <key>openTypeOS2StrikeoutSize</key>
   <integer>50</integer>
   <key>openTypeOS2SubscriptXOffset</key>
   <integer>-0</integer>
   <key>openTypeOS2SubscriptXSize</key>
-  <integer>700</integer>
-  <key>openTypeOS2SubscriptYOffset</key>
-  <integer>140</integer>
-  <key>openTypeOS2SubscriptYSize</key>
   <integer>650</integer>
+  <key>openTypeOS2SubscriptYOffset</key>
+  <integer>75</integer>
+  <key>openTypeOS2SubscriptYSize</key>
+  <integer>600</integer>
   <key>openTypeOS2SuperscriptXOffset</key>
   <integer>-0</integer>
   <key>openTypeOS2SuperscriptXSize</key>
-  <integer>700</integer>
-  <key>openTypeOS2SuperscriptYOffset</key>
-  <integer>477</integer>
-  <key>openTypeOS2SuperscriptYSize</key>
   <integer>650</integer>
+  <key>openTypeOS2SuperscriptYOffset</key>
+  <integer>350</integer>
+  <key>openTypeOS2SuperscriptYSize</key>
+  <integer>600</integer>
   <key>openTypeOS2Type</key>
   <array>
   </array>
@@ -134,7 +132,7 @@
   <key>openTypeOS2VendorID</key>
   <string>ANDG</string>
   <key>openTypeOS2WeightClass</key>
-  <integer>400</integer>
+  <integer>700</integer>
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
@@ -149,14 +147,8 @@
   <integer>7</integer>
   <key>postscriptBlueValues</key>
   <array>
-    <integer>-10</integer>
+    <integer>-20</integer>
     <integer>0</integer>
-    <integer>520</integer>
-    <integer>530</integer>
-    <integer>750</integer>
-    <integer>750</integer>
-    <integer>760</integer>
-    <integer>775</integer>
   </array>
   <key>postscriptFontName</key>
   <string>GrahamSans</string>
@@ -166,17 +158,12 @@
   <string>Graham Sans</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
-  <key>postscriptOtherBlues</key>
-  <array>
-    <integer>-240</integer>
-    <integer>-230</integer>
-  </array>
   <key>postscriptUnderlinePosition</key>
   <integer>-130</integer>
   <key>postscriptUnderlineThickness</key>
   <integer>40</integer>
   <key>postscriptWeightName</key>
-  <string>Normal</string>
+  <string>Bold</string>
   <key>styleMapFamilyName</key>
   <string>Graham Sans</string>
   <key>styleMapStyleName</key>

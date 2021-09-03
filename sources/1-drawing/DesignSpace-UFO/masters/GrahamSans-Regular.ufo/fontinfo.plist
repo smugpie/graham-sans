@@ -27,8 +27,6 @@
   </array>
   <key>italicAngle</key>
   <integer>0</integer>
-  <key>macintoshFONDFamilyID</key>
-  <integer>128</integer>
   <key>openTypeGaspRangeRecords</key>
   <array>
   <dict>
@@ -44,7 +42,7 @@
   </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2005/07/30 14:17:29</string>
+  <string>2005/07/30 15:17:29</string>
   <key>openTypeHeadFlags</key>
   <array>
   </array>
