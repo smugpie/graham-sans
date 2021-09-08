@@ -267,7 +267,6 @@ feature kern {
    pos Eth @_kernY -50;
    pos thorn @_kerny -25;
    pos oslash @_kernY -50;
-   pos _268 @_kernA -60;
    pos Thorn @_kernA -80;
    pos Thorn @_kernY -30;
   } k2;

@@ -3,20 +3,7 @@
   <advance width="480"/>
   <unicode hex="00B1"/>
   <outline>
-    <contour>
-      <point x="205" y="110" type="line"/>
-      <point x="265" y="110" type="line"/>
-      <point x="265" y="275" type="line"/>
-      <point x="420" y="275" type="line"/>
-      <point x="420" y="335" type="line"/>
-      <point x="265" y="335" type="line"/>
-      <point x="265" y="500" type="line"/>
-      <point x="205" y="500" type="line"/>
-      <point x="205" y="335" type="line"/>
-      <point x="60" y="335" type="line"/>
-      <point x="60" y="275" type="line"/>
-      <point x="205" y="275" type="line"/>
-    </contour>
+    <component base="plus" xOffset="10"/>
     <contour>
       <point x="30" y="0" type="line"/>
       <point x="450" y="0" type="line"/>
