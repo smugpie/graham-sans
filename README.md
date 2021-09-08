@@ -5,7 +5,7 @@ This repository is designed to show how I typically organise a font project. The
 
 Graham Sans is a font I released as freeware way back in 2005. I look back on it now and cringe, but hey - it may be of use to someone as a starting point for a typeface that's actually good.
 
-It comes in two weights, Regular and Bold, and the only changes I've made are to combine the single weights into one Fontlab 7 file and make the contours interpolatable.
+There are two weights, Regular and Bold, and the only changes I've made are to combine the single weights as two masters in one Fontlab 7 file. The contours are now interpolatable and I've created an intermediate instance, Semi Bold, to prove it.
 
 ## Building the fonts
 
